@@ -11,6 +11,15 @@ This project uses CMake for build management. The build artifacts are generated 
 - **CMake:** A build system generator supporting your platform.
 - **Make:** For Linux and macOS, or MinGW Makefiles/Visual Studio for Windows.
 
+
+### TLDR
+
+- Checking clang++ compiler:
+![clang checking][clang.png]
+
+- Checking g++ compiler:
+![gcc checking][g++.png]
+
 ### On macOS
 1. **Navigate to the Build Directory:**
    ```bash
