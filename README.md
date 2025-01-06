@@ -15,10 +15,10 @@ This project uses CMake for build management. The build artifacts are generated 
 ### TLDR
 
 - Checking clang++ compiler:
-![clang checking][images/clang.png]
+![clang checking](images/clang.png)
 
 - Checking g++ compiler:
-![gcc checking][images/g++.png]
+![gcc checking](images/g++.png)
 
 ### On macOS
 1. **Navigate to the Build Directory:**
